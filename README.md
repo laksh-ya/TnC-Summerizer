@@ -8,6 +8,12 @@ Made by Lakshya & Harsh as a Kaggle Capstone Project
 
 An AI-powered tool that automatically summarizes Terms & Conditions documents using Google's Gemini 2.0 Flash model. The tool extracts critical points, identifies potential risks, and provides actionable recommendations without requiring users to read through pages of legal text.
 
+## Demo
+
+![TnC Summarizer Demo](tnc%20demo.gif)
+
+Or watch the [full video demo](https://youtu.be/Q9QKhzHEMFE).
+
 ## The Problem
 
 Studies show over 90% of users accept terms without reading them, potentially agreeing to concerning clauses about data usage, privacy, and legal rights. This tool addresses that gap by making T&Cs digestible and highlighting what actually matters.
